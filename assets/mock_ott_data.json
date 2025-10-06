@@ -1,0 +1,332 @@
+[
+  {
+    "category": "Popular Series",
+    "items": [
+      {
+        "title": "Shadow Empire",
+        "thumbnail": "https://picsum.photos/140/200?random=1",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+      },
+      {
+        "title": "Neon Dreams",
+        "thumbnail": "https://picsum.photos/140/200?random=2",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+      },
+      {
+        "title": "Forgotten Realms",
+        "thumbnail": "https://picsum.photos/140/200?random=3",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+      },
+      {
+        "title": "Echoes of Time",
+        "thumbnail": "https://picsum.photos/140/200?random=4",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+      },
+      {
+        "title": "Midnight Chase",
+        "thumbnail": "https://picsum.photos/140/200?random=5",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+      },
+      {
+        "title": "Stellar Voyage",
+        "thumbnail": "https://picsum.photos/140/200?random=6",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+      },
+      {
+        "title": "Whispers in the Dark",
+        "thumbnail": "https://picsum.photos/140/200?random=7",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+      },
+      {
+        "title": "Golden Horizon",
+        "thumbnail": "https://picsum.photos/140/200?random=8",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+      },
+      {
+        "title": "Rogue Waves",
+        "thumbnail": "https://picsum.photos/140/200?random=9",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+      },
+      {
+        "title": "Crimson Dawn",
+        "thumbnail": "https://picsum.photos/140/200?random=10",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+      }
+    ]
+  },
+  {
+    "category": "New Releases",
+    "items": [
+      {
+        "title": "Quantum Leap",
+        "thumbnail": "https://picsum.photos/140/200?random=11",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+      },
+      {
+        "title": "Silent Storm",
+        "thumbnail": "https://picsum.photos/140/200?random=12",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+      },
+      {
+        "title": "Eternal Flame",
+        "thumbnail": "https://picsum.photos/140/200?random=13",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+      },
+      {
+        "title": "Lost Echo",
+        "thumbnail": "https://picsum.photos/140/200?random=14",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+      },
+      {
+        "title": "Iron Fist",
+        "thumbnail": "https://picsum.photos/140/200?random=15",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+      },
+      {
+        "title": "Velvet Shadows",
+        "thumbnail": "https://picsum.photos/140/200?random=16",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+      },
+      {
+        "title": "Phoenix Rising",
+        "thumbnail": "https://picsum.photos/140/200?random=17",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+      },
+      {
+        "title": "Arctic Fury",
+        "thumbnail": "https://picsum.photos/140/200?random=18",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+      },
+      {
+        "title": "Desert Mirage",
+        "thumbnail": "https://picsum.photos/140/200?random=19",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+      },
+      {
+        "title": "Urban Legends",
+        "thumbnail": "https://picsum.photos/140/200?random=20",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+      }
+    ]
+  },
+  {
+    "category": "Action",
+    "items": [
+      {
+        "title": "Blaze Runner",
+        "thumbnail": "https://picsum.photos/140/200?random=21",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+      },
+      {
+        "title": "Thunder Strike",
+        "thumbnail": "https://picsum.photos/140/200?random=22",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+      },
+      {
+        "title": "Vortex Assault",
+        "thumbnail": "https://picsum.photos/140/200?random=23",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+      },
+      {
+        "title": "Rage Mode",
+        "thumbnail": "https://picsum.photos/140/200?random=24",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+      },
+      {
+        "title": "Elite Force",
+        "thumbnail": "https://picsum.photos/140/200?random=25",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+      },
+      {
+        "title": "Code Breaker",
+        "thumbnail": "https://picsum.photos/140/200?random=26",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+      },
+      {
+        "title": "Night Raider",
+        "thumbnail": "https://picsum.photos/140/200?random=27",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+      },
+      {
+        "title": "Steel Dawn",
+        "thumbnail": "https://picsum.photos/140/200?random=28",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+      },
+      {
+        "title": "Flash Point",
+        "thumbnail": "https://picsum.photos/140/200?random=29",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+      },
+      {
+        "title": "Ghost Protocol",
+        "thumbnail": "https://picsum.photos/140/200?random=30",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+      }
+    ]
+  },
+  {
+    "category": "Comedy",
+    "items": [
+      {
+        "title": "Laugh Riot",
+        "thumbnail": "https://picsum.photos/140/200?random=31",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+      },
+      {
+        "title": "Silly Shenanigans",
+        "thumbnail": "https://picsum.photos/140/200?random=32",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+      },
+      {
+        "title": "Prank Masters",
+        "thumbnail": "https://picsum.photos/140/200?random=33",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+      },
+      {
+        "title": "Giggle Fest",
+        "thumbnail": "https://picsum.photos/140/200?random=34",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+      },
+      {
+        "title": "Joke's On You",
+        "thumbnail": "https://picsum.photos/140/200?random=35",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+      },
+      {
+        "title": "Humor Hour",
+        "thumbnail": "https://picsum.photos/140/200?random=36",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+      },
+      {
+        "title": "Wit & Wisdom",
+        "thumbnail": "https://picsum.photos/140/200?random=37",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+      },
+      {
+        "title": "Funny Bones",
+        "thumbnail": "https://picsum.photos/140/200?random=38",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+      },
+      {
+        "title": "Comedy Central",
+        "thumbnail": "https://picsum.photos/140/200?random=39",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+      },
+      {
+        "title": "Roast Battle",
+        "thumbnail": "https://picsum.photos/140/200?random=40",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+      }
+    ]
+  },
+  {
+    "category": "Drama",
+    "items": [
+      {
+        "title": "Tears of Rain",
+        "thumbnail": "https://picsum.photos/140/200?random=41",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+      },
+      {
+        "title": "Broken Hearts",
+        "thumbnail": "https://picsum.photos/140/200?random=42",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+      },
+      {
+        "title": "Family Ties",
+        "thumbnail": "https://picsum.photos/140/200?random=43",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+      },
+      {
+        "title": "Silent Grief",
+        "thumbnail": "https://picsum.photos/140/200?random=44",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+      },
+      {
+        "title": "Redemption Road",
+        "thumbnail": "https://picsum.photos/140/200?random=45",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+      },
+      {
+        "title": "Legacy of Love",
+        "thumbnail": "https://picsum.photos/140/200?random=46",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+      },
+      {
+        "title": "Dark Secrets",
+        "thumbnail": "https://picsum.photos/140/200?random=47",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+      },
+      {
+        "title": "Hope Springs",
+        "thumbnail": "https://picsum.photos/140/200?random=48",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+      },
+      {
+        "title": "Faded Memories",
+        "thumbnail": "https://picsum.photos/140/200?random=49",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+      },
+      {
+        "title": "Final Act",
+        "thumbnail": "https://picsum.photos/140/200?random=50",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+      }
+    ]
+  },
+  {
+    "category": "Sci-Fi",
+    "items": [
+      {
+        "title": "Starforge",
+        "thumbnail": "https://picsum.photos/140/200?random=51",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+      },
+      {
+        "title": "Alien Horizon",
+        "thumbnail": "https://picsum.photos/140/200?random=52",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+      },
+      {
+        "title": "Time Warp",
+        "thumbnail": "https://picsum.photos/140/200?random=53",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+      },
+      {
+        "title": "Cyber Nexus",
+        "thumbnail": "https://picsum.photos/140/200?random=54",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+      },
+      {
+        "title": "Galactic Drift",
+        "thumbnail": "https://picsum.photos/140/200?random=55",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+      },
+      {
+        "title": "Void Walker",
+        "thumbnail": "https://picsum.photos/140/200?random=56",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+      },
+      {
+        "title": "Neural Storm",
+        "thumbnail": "https://picsum.photos/140/200?random=57",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+      },
+      {
+        "title": "Orbit Zero",
+        "thumbnail": "https://picsum.photos/140/200?random=58",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+      },
+      {
+        "title": "Dyson Sphere",
+        "thumbnail": "https://picsum.photos/140/200?random=59",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+      },
+      {
+        "title": "Exo Planet",
+        "thumbnail": "https://picsum.photos/140/200?random=60",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+      }
+    ]
+  }
+]
